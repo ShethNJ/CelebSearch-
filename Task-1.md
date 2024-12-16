@@ -19,4 +19,3 @@ The objective of this task is to implement a basic edge detection algorithm usin
 - This is a graded assignment and will be judged on the results. (Brownie points for good coding practices)
 - Directly importing an edge detector from a library is not allowed.
 - Define the operators/filters/kernels you're using yourself don't use any library to import them.
-- Any kind of Plagiarism either among your peers or directly copy pasting from the internet would lead to a direct 'F' grade in the task.
